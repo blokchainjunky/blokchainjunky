@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blokchainjunky
+- 👋 Hi, I’m @Daeborwale
 - 👀 I’m interested in anything blockchain.
 - 🌱 I’m currently learning & building my web3 project.
 - 💞️ I’m looking to collaborate on my web3 project.
