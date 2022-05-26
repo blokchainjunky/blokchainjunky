@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything blockchain.
 - 🌱 I’m currently learning & building my web3 project.
 - 💞️ I’m looking to collaborate on my web3 project.
-- 📫 How to reach me @blokchainjunky on twitter.
+- 📫 How to reach me @daeborwale on twitter.
 
 <!---
 blokchainjunky/blokchainjunky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
